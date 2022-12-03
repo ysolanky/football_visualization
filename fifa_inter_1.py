@@ -434,8 +434,10 @@ with st.container():
 
 
             #iplot(plotly_fig)
-
-            st.write(plotly_fig)
+            
+            
+            st.plotly_chart(plotly_fig, use_container_width=True )
+            #st.write(plotly_fig)
         
         with col_goal_table:
             keep_cols=['minute','player','possession_team']
