@@ -14,7 +14,7 @@ import numpy as np
 import math
 from mplsoccer.pitch import Pitch
 
-base_data=pd.read_csv("C:/users/yashp/Desktop/IUB/2022/Data Viz/Project/Fifa_data_mod.csv",
+base_data=pd.read_csv("Fifa_data_mod.csv",
                        dtype={'Known As':str,
                                 'Full Name':str,
                                 'Overall':float,
@@ -329,9 +329,9 @@ with st.container():
         * Plot does not reflect own goals due to unavailability of data
 
     """)
-    goal_img = Image.open("C:/users/yashp/Desktop/IUB/2022/Data Viz/Project/ball1.png")
+    goal_img = Image.open("ball1.png")
 
-    goals_data = pd.read_csv("C:/users/yashp/Desktop/IUB/2022/Data Viz/Project/goals_27Nov.csv",
+    goals_data = pd.read_csv("goals_27Nov.csv",
                         dtype={'match_id':str,
                         'player':str,
                         'possession_team':str,
