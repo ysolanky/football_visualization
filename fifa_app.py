@@ -115,11 +115,11 @@ st.markdown("<h5 style='text-align: center;'>By Yash Pratap Solanky, Aditya Jose
 
 #st.header("Football Visualization Project")
 #st.caption("By Yash Pratap Solanky, Aditya Joseph James")
-st.subheader('Visualization of FIFA player statistics')
+st.subheader('Visualization of FIFA 23 in game player statistics')
 
 expander = st.expander("Read me")
 expander.write("""
-    This visualization tool enables the user to compare player statistics across positions and attributes. 
+    This visualization tool enables the user to compare player statistics across positions and attributes. The data is taken from the FIFA 23 game by EA sports.
     To start one needs to select the position that they are interested in. The user can then compare all the players across 
     and two dimensions available. The user can choose to color the scatter plot by any metric. They can also select a base
     player against whom they want to make a comparison. Once they have the scatter plot they can zoom into the plot to find 
