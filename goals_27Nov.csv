@@ -1,0 +1,186 @@
+|match_id|player|possession_team|shot_end_location|possession_team_id|location|minute|location_x|location_y|z|x|y|match|competition_stage|score
+0|7548|Philippe Coutinho Correia|Brazil|[120.0, 38.9, 0.3]|781.0|[113.0, 38.0]|90.0|113.0|38.0|120.0|38.9|0.3|Brazil vs Costa Rica|Group Stage|2-0
+1|7548|Neymar da Silva Santos Junior|Brazil|[120.0, 36.6, 1.6]|781.0|[115.0, 42.0]|96.0|115.0|42.0|120.0|36.6|1.6|Brazil vs Costa Rica|Group Stage|2-0
+2|7578|José María Giménez de Vargas|Uruguay|[119.0, 43.6, 2.0]|783.0|[113.0, 37.0]|88.0|113.0|37.0|119.0|43.6|2.0|Egypt vs Uruguay|Group Stage|0-1
+3|7553|Carlos Alberto Vela Garrido|Mexico|[120.0, 41.5, 1.8]|794.0|[109.0, 41.0]|25.0|109.0|41.0|120.0|41.5|1.8|South Korea vs Mexico|Group Stage|1-2
+4|7553|Javier Hernández Balcázar|Mexico|[120.0, 38.3, 0.1]|794.0|[111.0, 32.0]|65.0|111.0|32.0|120.0|38.3|0.1|South Korea vs Mexico|Group Stage|1-2
+5|7553|Heung-Min Son|South Korea|[120.0, 36.2, 1.4]|791.0|[97.0, 54.0]|92.0|97.0|54.0|120.0|36.2|1.4|South Korea vs Mexico|Group Stage|1-2
+6|7544|Luis Alberto Suárez Díaz|Uruguay|[120.0, 43.6, 1.1]|783.0|[114.0, 43.0]|22.0|114.0|43.0|120.0|43.6|1.1|Uruguay vs Saudi Arabia|Group Stage|1-0
+7|7536|Dries Mertens|Belgium|[120.0, 36.2, 1.5]|782.0|[105.0, 59.0]|46.0|105.0|59.0|120.0|36.2|1.5|Belgium vs Panama|Group Stage|3-0
+8|7536|Romelu Lukaku Menama|Belgium|[120.0, 44.0, 1.7]|782.0|[114.0, 43.0]|68.0|114.0|43.0|120.0|44.0|1.7|Belgium vs Panama|Group Stage|3-0
+9|7536|Romelu Lukaku Menama|Belgium|[120.0, 39.9, 0.5]|782.0|[110.0, 29.0]|74.0|110.0|29.0|120.0|39.9|0.5|Belgium vs Panama|Group Stage|3-0
+10|7555|Yerry Fernando Mina González|Colombia|[120.0, 37.0, 2.0]|769.0|[116.0, 38.0]|39.0|116.0|38.0|120.0|37.0|2.0|Poland vs Colombia|Group Stage|0-3
+11|7555|Radamel Falcao García Zárate|Colombia|[120.0, 36.2, 1.6]|769.0|[108.0, 47.0]|69.0|108.0|47.0|120.0|36.2|1.6|Poland vs Colombia|Group Stage|0-3
+12|7555|Juan Guillermo Cuadrado Bello|Colombia|[120.0, 44.0, 1.6]|769.0|[105.0, 38.0]|74.0|105.0|38.0|120.0|44.0|1.6|Poland vs Colombia|Group Stage|0-3
+13|7546|Kylian Mbappé Lottin|France|[120.0, 40.5, 0.9]|771.0|[119.0, 41.0]|33.0|119.0|41.0|120.0|40.5|0.9|France vs Peru|Group Stage|1-0
+14|7539|M''Baye Babacar Niang|Poland|[120.0, 39.9, 1.0]|789.0|[113.0, 40.0]|59.0|113.0|40.0|120.0|39.9|1.0|Poland vs Senegal|Group Stage|1-2
+15|7539|Grzegorz Krychowiak|Poland|[120.0, 43.8, 2.0]|789.0|[114.0, 39.0]|85.0|114.0|39.0|120.0|43.8|2.0|Poland vs Senegal|Group Stage|1-2
+16|7538|Andreas Granqvist|Sweden|[120.0, 43.0, 0.4]|790.0|[109.0, 41.0]|64.0|109.0|41.0|120.0|43.0|0.4|Sweden vs South Korea|Group Stage|1-0
+17|7576|Cristiano Ronaldo dos Santos Aveiro|Portugal|[120.0, 43.8, 1.3]|780.0|[109.0, 41.0]|3.0|109.0|41.0|120.0|43.8|1.3|Portugal vs Spain|Group Stage|3-3
+18|7576|Diego da Silva Costa|Spain|[120.0, 36.2, 0.4]|772.0|[105.0, 45.0]|23.0|105.0|45.0|120.0|36.2|0.4|Portugal vs Spain|Group Stage|3-3
+19|7576|Cristiano Ronaldo dos Santos Aveiro|Portugal|[119.0, 39.1, 0.5]|780.0|[101.0, 36.0]|43.0|101.0|36.0|119.0|39.1|0.5|Portugal vs Spain|Group Stage|3-3
+20|7576|Diego da Silva Costa|Spain|[120.0, 41.3, 2.0]|772.0|[118.0, 41.0]|54.0|118.0|41.0|120.0|41.3|2.0|Portugal vs Spain|Group Stage|3-3
+21|7576|José Ignacio Fernández Iglesias|Spain|[120.0, 36.2, 0.8]|772.0|[99.0, 52.0]|57.0|99.0|52.0|120.0|36.2|0.8|Portugal vs Spain|Group Stage|3-3
+22|7576|Cristiano Ronaldo dos Santos Aveiro|Portugal|[120.0, 42.8, 1.9]|780.0|[96.0, 44.0]|87.0|96.0|44.0|120.0|42.8|1.9|Portugal vs Spain|Group Stage|3-3
+23|7565|José Paulo Bezzera Maciel Júnior|Brazil|[120.0, 41.7, 0.9]|781.0|[106.0, 39.0]|34.0|106.0|39.0|120.0|41.7|0.9|Serbia vs Brazil|Group Stage|0-2
+24|7565|Thiago Emiliano da Silva|Brazil|[120.0, 36.4, 1.9]|781.0|[116.0, 36.0]|67.0|116.0|36.0|120.0|36.4|1.9|Serbia vs Brazil|Group Stage|0-2
+25|7551|Ola Toivonen|Sweden|[120.0, 37.2, 1.6]|790.0|[112.0, 48.0]|31.0|112.0|48.0|120.0|37.2|1.6|Germany vs Sweden|Group Stage|2-1
+26|7551|Marco Reus|Germany|[120.0, 36.4, 0.4]|770.0|[112.0, 40.0]|47.0|112.0|40.0|120.0|36.4|0.4|Germany vs Sweden|Group Stage|2-1
+27|7551|Toni Kroos|Germany|[120.0, 42.8, 2.0]|770.0|[111.0, 20.0]|94.0|111.0|20.0|120.0|42.8|2.0|Germany vs Sweden|Group Stage|2-1
+28|7550|Aleksandar Mitrović|Serbia|[120.0, 37.2, 2.2]|786.0|[115.0, 39.0]|4.0|115.0|39.0|120.0|37.2|2.2|Serbia vs Switzerland|Group Stage|1-2
+29|7550|Granit Xhaka|Switzerland|[120.0, 41.9, 1.5]|773.0|[95.0, 22.0]|51.0|95.0|22.0|120.0|41.9|1.5|Serbia vs Switzerland|Group Stage|1-2
+30|7550|Xherdan Shaqiri|Switzerland|[120.0, 43.8, 0.5]|773.0|[111.0, 31.0]|89.0|111.0|31.0|120.0|43.8|0.5|Serbia vs Switzerland|Group Stage|1-2
+31|7537|Harry Kane|England|[120.0, 41.7, 0.5]|768.0|[116.0, 46.0]|10.0|116.0|46.0|120.0|41.7|0.5|Tunisia vs England|Group Stage|1-2
+32|7537|Ferjani Sassi|Tunisia|[119.0, 36.4, 0.5]|777.0|[108.0, 40.0]|34.0|108.0|40.0|119.0|36.4|0.5|Tunisia vs England|Group Stage|1-2
+33|7537|Harry Kane|England|[120.0, 37.0, 1.6]|768.0|[116.0, 36.0]|90.0|116.0|36.0|120.0|37.0|1.6|Tunisia vs England|Group Stage|1-2
+34|7580|Antoine Griezmann|France|[120.0, 38.3, 0.2]|771.0|[108.0, 40.0]|12.0|108.0|40.0|120.0|38.3|0.2|France vs Argentina|Round of 16|4-3
+35|7580|Ángel Fabián Di María Hernández|Argentina|[120.0, 44.0, 1.7]|779.0|[90.0, 38.0]|40.0|90.0|38.0|120.0|44.0|1.7|France vs Argentina|Round of 16|4-3
+36|7580|Gabriel Iván Mercado|Argentina|[119.0, 43.4, 0.4]|779.0|[111.0, 42.0]|47.0|111.0|42.0|119.0|43.4|0.4|France vs Argentina|Round of 16|4-3
+37|7580|Benjamin Pavard|France|[120.0, 36.2, 2.0]|771.0|[100.0, 56.0]|56.0|100.0|56.0|120.0|36.2|2.0|France vs Argentina|Round of 16|4-3
+38|7580|Kylian Mbappé Lottin|France|[120.0, 39.5, 0.9]|771.0|[112.0, 30.0]|63.0|112.0|30.0|120.0|39.5|0.9|France vs Argentina|Round of 16|4-3
+39|7580|Kylian Mbappé Lottin|France|[120.0, 36.2, 0.2]|771.0|[107.0, 51.0]|67.0|107.0|51.0|120.0|36.2|0.2|France vs Argentina|Round of 16|4-3
+40|7580|Sergio Leonel Agüero del Castillo|Argentina|[119.0, 36.4, 0.9]|779.0|[112.0, 37.0]|92.0|112.0|37.0|119.0|36.4|0.9|France vs Argentina|Round of 16|4-3
+41|8650|Kevin De Bruyne|Belgium|[120.0, 36.6, 0.6]|782.0|[102.0, 54.0]|30.0|102.0|54.0|120.0|36.6|0.6|Brazil vs Belgium|Quarter-finals|1-2
+42|8650|Renato Soares de Oliveira Augusto|Brazil|[120.0, 43.8, 0.5]|781.0|[111.0, 42.0]|75.0|111.0|42.0|120.0|43.8|0.5|Brazil vs Belgium|Quarter-finals|1-2
+43|7581|Mathias Jattah-Njie Jørgensen|Denmark|[119.0, 39.7, 0.2]|776.0|[115.0, 34.0]|0.0|115.0|34.0|119.0|39.7|0.2|Croatia vs Denmark|Round of 16|1-1
+44|7581|Mario Mandžukić|Croatia|[120.0, 36.4, 1.1]|785.0|[112.0, 36.0]|3.0|112.0|36.0|120.0|36.4|1.1|Croatia vs Denmark|Round of 16|1-1
+45|7581|Simon Thorup Kjær|Denmark|[119.0, 42.8, 2.5]|776.0|[108.0, 40.0]|121.0|108.0|40.0|119.0|42.8|2.5|Croatia vs Denmark|Round of 16|1-1
+46|7581|Andrej Kramarić|Croatia|[120.0, 37.0, 0.2]|785.0|[108.0, 40.0]|122.0|108.0|40.0|120.0|37.0|0.2|Croatia vs Denmark|Round of 16|1-1
+47|7581|Michael Krohn-Dehli|Denmark|[120.0, 37.0, 0.2]|776.0|[108.0, 40.0]|123.0|108.0|40.0|120.0|37.0|0.2|Croatia vs Denmark|Round of 16|1-1
+48|7581|Luka Modrić|Croatia|[120.0, 40.3, 0.2]|785.0|[108.0, 40.0]|124.0|108.0|40.0|120.0|40.3|0.2|Croatia vs Denmark|Round of 16|1-1
+49|7581|Ivan Rakitić|Croatia|[120.0, 37.2, 0.3]|785.0|[108.0, 40.0]|128.0|108.0|40.0|120.0|37.2|0.3|Croatia vs Denmark|Round of 16|1-1
+50|7549|Ahmed Musa|Nigeria|[120.0, 41.5, 2.2]|775.0|[112.0, 46.0]|48.0|112.0|46.0|120.0|41.5|2.2|Nigeria vs Iceland|Group Stage|2-0
+51|7549|Ahmed Musa|Nigeria|[120.0, 43.4, 1.8]|775.0|[113.0, 41.0]|74.0|113.0|41.0|120.0|43.4|1.8|Nigeria vs Iceland|Group Stage|2-0
+52|7529|Luka Modrić|Croatia|[120.0, 36.2, 0.3]|785.0|[109.0, 41.0]|70.0|109.0|41.0|120.0|36.2|0.3|Croatia vs Nigeria|Group Stage|2-0
+53|7534|Hirving Rodrigo Lozano Bahena|Mexico|[120.0, 37.0, 0.5]|794.0|[109.0, 32.0]|34.0|109.0|32.0|120.0|37.0|0.5|Germany vs Mexico|Group Stage|0-1
+54|7562|André Martín Carrillo Díaz|Peru|[120.0, 36.4, 0.5]|784.0|[104.0, 53.0]|17.0|104.0|53.0|120.0|36.4|0.5|Australia vs Peru|Group Stage|0-2
+55|7562|José Paolo Guerrero Gonzáles|Peru|[120.0, 43.6, 1.2]|784.0|[111.0, 36.0]|49.0|111.0|36.0|120.0|43.6|1.2|Australia vs Peru|Group Stage|0-2
+56|7571|Yerry Fernando Mina González|Colombia|[120.0, 41.5, 1.9]|769.0|[114.0, 47.0]|73.0|114.0|47.0|120.0|41.5|1.9|Senegal vs Colombia|Group Stage|0-1
+57|7569|Fakhreddine Ben Youssef|Tunisia|[120.0, 38.3, 1.6]|777.0|[114.0, 40.0]|50.0|114.0|40.0|120.0|38.3|1.6|Panama vs Tunisia|Group Stage|1-2
+58|7569|Wahbi Khazri|Tunisia|[120.0, 40.3, 2.1]|777.0|[117.0, 43.0]|65.0|117.0|43.0|120.0|40.3|2.1|Panama vs Tunisia|Group Stage|1-2
+59|7568|Blerim Džemaili|Switzerland|[120.0, 40.5, 1.1]|773.0|[113.0, 43.0]|30.0|113.0|43.0|120.0|40.5|1.1|Switzerland vs Costa Rica|Group Stage|2-2
+60|7568|Kendall Jamaal Waston Manley|Costa Rica|[119.0, 37.2, 1.5]|795.0|[115.0, 42.0]|55.0|115.0|42.0|119.0|37.2|1.5|Switzerland vs Costa Rica|Group Stage|2-2
+61|7568|Josip Drmic|Switzerland|[120.0, 43.0, 0.2]|773.0|[106.0, 34.0]|87.0|106.0|34.0|120.0|43.0|0.2|Switzerland vs Costa Rica|Group Stage|2-2
+62|7530|Antoine Griezmann|France|[119.0, 43.8, 1.4]|771.0|[108.0, 40.0]|57.0|108.0|40.0|119.0|43.8|1.4|France vs Australia|Group Stage|2-1
+63|7530|Mile Jedinak|Australia|[120.0, 42.0, 0.2]|792.0|[109.0, 41.0]|61.0|109.0|41.0|120.0|42.0|0.2|France vs Australia|Group Stage|2-1
+64|7558|Luis Alberto Suárez Díaz|Uruguay|[119.0, 44.0, 0.7]|783.0|[101.0, 36.0]|9.0|101.0|36.0|119.0|44.0|0.7|Uruguay vs Russia|Group Stage|3-0
+65|7558|Edinson Roberto Cavani Gómez|Uruguay|[120.0, 37.2, 1.4]|783.0|[119.0, 39.0]|89.0|119.0|39.0|120.0|37.2|1.4|Uruguay vs Russia|Group Stage|3-0
+66|7583|Neymar da Silva Santos Junior|Brazil|[120.0, 40.1, 0.5]|781.0|[119.0, 43.0]|50.0|119.0|43.0|120.0|40.1|0.5|Brazil vs Mexico|Round of 16|2-0
+67|7583|Roberto Firmino Barbosa de Oliveira|Brazil|[120.0, 40.3, 0.9]|781.0|[119.0, 43.0]|87.0|119.0|43.0|120.0|40.3|0.9|Brazil vs Mexico|Round of 16|2-0
+68|7547|Christian Dannemann Eriksen|Denmark|[120.0, 37.8, 2.5]|776.0|[104.0, 39.0]|6.0|104.0|39.0|120.0|37.8|2.5|Denmark vs Australia|Group Stage|1-1
+69|7547|Mile Jedinak|Australia|[120.0, 42.4, 0.2]|792.0|[109.0, 41.0]|37.0|109.0|41.0|120.0|42.4|0.2|Denmark vs Australia|Group Stage|1-1
+70|7535|Aleksandar Kolarov|Serbia|[120.0, 44.0, 1.5]|786.0|[94.0, 59.0]|55.0|94.0|59.0|120.0|44.0|1.5|Costa Rica vs Serbia|Group Stage|0-1
+71|7584|Genki Haraguchi|Japan|[120.0, 36.4, 0.6]|778.0|[109.0, 54.0]|47.0|109.0|54.0|120.0|36.4|0.6|Belgium vs Japan|Round of 16|3-2
+72|7584|Takashi Inui|Japan|[120.0, 44.0, 0.8]|778.0|[94.0, 33.0]|51.0|94.0|33.0|120.0|44.0|0.8|Belgium vs Japan|Round of 16|3-2
+73|7584|Jan Vertonghen|Belgium|[120.0, 43.8, 1.5]|782.0|[116.0, 23.0]|68.0|116.0|23.0|120.0|43.8|1.5|Belgium vs Japan|Round of 16|3-2
+74|7584|Marouane Fellaini-Bakkioui|Belgium|[120.0, 41.5, 0.6]|782.0|[114.0, 42.0]|73.0|114.0|42.0|120.0|41.5|0.6|Belgium vs Japan|Round of 16|3-2
+75|7584|Nacer Chadli|Belgium|[120.0, 37.4, 0.2]|782.0|[111.0, 37.0]|93.0|111.0|37.0|120.0|37.4|0.2|Belgium vs Japan|Round of 16|3-2
+76|7545|Ante Rebić|Argentina|[120.0, 40.7, 1.9]|779.0|[108.0, 30.0]|52.0|108.0|30.0|120.0|40.7|1.9|Argentina vs Croatia|Group Stage|0-3
+77|7545|Luka Modrić|Croatia|[120.0, 44.0, 1.1]|785.0|[93.0, 45.0]|79.0|93.0|45.0|120.0|44.0|1.1|Argentina vs Croatia|Group Stage|0-3
+78|7545|Ivan Rakitić|Croatia|[120.0, 37.0, 0.4]|785.0|[112.0, 40.0]|90.0|112.0|40.0|120.0|37.0|0.4|Argentina vs Croatia|Group Stage|0-3
+79|8649|Raphaël Varane|France|[120.0, 36.6, 1.3]|771.0|[109.0, 44.0]|39.0|109.0|44.0|120.0|36.6|1.3|Uruguay vs France|Quarter-finals|0-2
+80|8649|Antoine Griezmann|France|[120.0, 40.9, 1.6]|771.0|[97.0, 21.0]|60.0|97.0|21.0|120.0|40.9|1.6|Uruguay vs France|Quarter-finals|0-2
+81|8658|Ivan Perišić|Croatia|[120.0, 43.6, 0.8]|785.0|[105.0, 32.0]|27.0|105.0|32.0|120.0|43.6|0.8|France vs Croatia|Final|4-2
+82|8658|Antoine Griezmann|France|[120.0, 37.6, 0.1]|771.0|[108.0, 40.0]|37.0|108.0|40.0|120.0|37.6|0.1|France vs Croatia|Final|4-2
+83|8658|Paul Pogba|France|[120.0, 37.6, 1.0]|771.0|[102.0, 39.0]|58.0|102.0|39.0|120.0|37.6|1.0|France vs Croatia|Final|4-2
+84|8658|Kylian Mbappé Lottin|France|[120.0, 37.0, 0.3]|771.0|[94.0, 40.0]|64.0|94.0|40.0|120.0|37.0|0.3|France vs Croatia|Final|4-2
+85|8658|Mario Mandžukić|Croatia|[120.0, 36.6, 0.4]|785.0|[114.0, 43.0]|68.0|114.0|43.0|120.0|36.6|0.4|France vs Croatia|Final|4-2
+86|7561|Milan Badelj|Croatia|[120.0, 36.6, 2.0]|785.0|[106.0, 40.0]|52.0|106.0|40.0|120.0|36.6|2.0|Iceland vs Croatia|Group Stage|1-2
+87|7561|Gylfi Þór Sigurðsson|Iceland|[120.0, 40.7, 2.4]|793.0|[109.0, 41.0]|75.0|109.0|41.0|120.0|40.7|2.4|Iceland vs Croatia|Group Stage|1-2
+88|7561|Ivan Perišić|Croatia|[120.0, 43.8, 2.0]|785.0|[111.0, 28.0]|89.0|111.0|28.0|120.0|43.8|2.0|Iceland vs Croatia|Group Stage|1-2
+89|7531|Sergio Leonel Agüero del Castillo|Argentina|[119.0, 36.4, 2.3]|779.0|[106.0, 37.0]|18.0|106.0|37.0|119.0|36.4|2.3|Argentina vs Iceland|Group Stage|1-1
+90|7531|Alfreð Finnbogason|Iceland|[120.0, 40.3, 0.5]|793.0|[113.0, 39.0]|22.0|113.0|39.0|120.0|40.3|0.5|Argentina vs Iceland|Group Stage|1-1
+91|7582|Artem Dzyuba|Russia|[120.0, 43.0, 1.7]|796.0|[108.0, 40.0]|40.0|108.0|40.0|120.0|43.0|1.7|Spain vs Russia|Round of 16|1-1
+92|7582|Andrés Iniesta Luján|Spain|[120.0, 42.0, 1.6]|772.0|[109.0, 41.0]|120.0|109.0|41.0|120.0|42.0|1.6|Spain vs Russia|Round of 16|1-1
+93|7582|Fyodor Smolov|Russia|[120.0, 37.4, 1.2]|796.0|[109.0, 41.0]|120.0|109.0|41.0|120.0|37.4|1.2|Spain vs Russia|Round of 16|1-1
+94|7582|Gerard Piqué Bernabéu|Spain|[120.0, 36.2, 1.1]|772.0|[109.0, 41.0]|121.0|109.0|41.0|120.0|36.2|1.1|Spain vs Russia|Round of 16|1-1
+95|7582|Sergei Ignashevich|Russia|[120.0, 43.4, 1.6]|796.0|[109.0, 41.0]|122.0|109.0|41.0|120.0|43.4|1.6|Spain vs Russia|Round of 16|1-1
+96|7582|Aleksandr Golovin|Russia|[120.0, 38.5, 0.2]|796.0|[109.0, 41.0]|123.0|109.0|41.0|120.0|38.5|0.2|Spain vs Russia|Round of 16|1-1
+97|7582|Sergio Ramos García|Spain|[120.0, 37.8, 1.6]|772.0|[109.0, 41.0]|124.0|109.0|41.0|120.0|37.8|1.6|Spain vs Russia|Round of 16|1-1
+98|7582|Denis Cheryshev|Russia|[120.0, 40.5, 1.3]|796.0|[109.0, 41.0]|124.0|109.0|41.0|120.0|40.5|1.3|Spain vs Russia|Round of 16|1-1
+99|7552|Eden Hazard|Belgium|[120.0, 37.0, 0.0]|782.0|[108.0, 40.0]|6.0|108.0|40.0|120.0|37.0|0.0|Belgium vs Tunisia|Group Stage|5-2
+100|7552|Romelu Lukaku Menama|Belgium|[120.0, 44.0, 0.0]|782.0|[104.0, 33.0]|15.0|104.0|33.0|120.0|44.0|0.0|Belgium vs Tunisia|Group Stage|5-2
+101|7552|Dylan Daniel Mahmoud Bronn|Tunisia|[120.0, 43.4, 1.3]|777.0|[112.0, 41.0]|17.0|112.0|41.0|120.0|43.4|1.3|Belgium vs Tunisia|Group Stage|5-2
+102|7552|Romelu Lukaku Menama|Belgium|[120.0, 40.3, 0.2]|782.0|[112.0, 45.0]|47.0|112.0|45.0|120.0|40.3|0.2|Belgium vs Tunisia|Group Stage|5-2
+103|7552|Eden Hazard|Belgium|[120.0, 37.6, 1.3]|782.0|[109.0, 38.0]|50.0|109.0|38.0|120.0|37.6|1.3|Belgium vs Tunisia|Group Stage|5-2
+104|7552|Michy Batshuayi Tunga|Belgium|[120.0, 43.6, 0.1]|782.0|[113.0, 35.0]|89.0|113.0|35.0|120.0|43.6|0.1|Belgium vs Tunisia|Group Stage|5-2
+105|7552|Wahbi Khazri|Tunisia|[120.0, 36.8, 0.5]|777.0|[111.0, 44.0]|92.0|111.0|44.0|120.0|36.8|0.5|Belgium vs Tunisia|Group Stage|5-2
+106|7532|Yussuf Yurary Poulsen|Denmark|[120.0, 37.0, 0.5]|776.0|[108.0, 28.0]|58.0|108.0|28.0|120.0|37.0|0.5|Peru vs Denmark|Group Stage|0-1
+107|7560|Khalid Boutaïb|Spain|[120.0, 39.9, 0.4]|772.0|[107.0, 45.0]|13.0|107.0|45.0|120.0|39.9|0.4|Spain vs Morocco|Group Stage|2-2
+108|7560|Francisco Román Alarcón Suárez|Spain|[120.0, 37.4, 2.0]|772.0|[114.0, 38.0]|18.0|114.0|38.0|120.0|37.4|2.0|Spain vs Morocco|Group Stage|2-2
+109|7560|Youssef En-Nesyri|Morocco|[120.0, 43.4, 1.8]|788.0|[110.0, 40.0]|80.0|110.0|40.0|120.0|43.4|1.8|Spain vs Morocco|Group Stage|2-2
+110|7560|Iago Aspas Juncal|Spain|[120.0, 37.0, 1.6]|772.0|[116.0, 44.0]|90.0|116.0|44.0|120.0|37.0|1.6|Spain vs Morocco|Group Stage|2-2
+111|7533|Philippe Coutinho Correia|Brazil|[120.0, 44.0, 2.1]|781.0|[99.0, 21.0]|19.0|99.0|21.0|120.0|44.0|2.1|Brazil vs Switzerland|Group Stage|1-1
+112|7533|Steven Zuber|Switzerland|[120.0, 41.9, 2.5]|773.0|[116.0, 41.0]|49.0|116.0|41.0|120.0|41.9|2.5|Brazil vs Switzerland|Group Stage|1-1
+113|7564|Lionel Andrés Messi Cuccittini|Argentina|[120.0, 37.4, 1.9]|779.0|[112.0, 50.0]|13.0|112.0|50.0|120.0|37.4|1.9|Nigeria vs Argentina|Group Stage|1-2
+114|7564|Victor Moses|Nigeria|[120.0, 42.2, 0.4]|775.0|[109.0, 41.0]|50.0|109.0|41.0|120.0|42.2|0.4|Nigeria vs Argentina|Group Stage|1-2
+115|7564|Faustino Marcos Alberto Rojo|Argentina|[120.0, 43.6, 1.2]|779.0|[107.0, 37.0]|85.0|107.0|37.0|120.0|43.6|1.2|Nigeria vs Argentina|Group Stage|1-2
+116|7579|Edinson Roberto Cavani Gómez|Uruguay|[120.0, 44.0, 2.0]|783.0|[114.0, 46.0]|6.0|114.0|46.0|120.0|44.0|2.0|Uruguay vs Portugal|Round of 16|2-1
+117|7579|Kléper Laveran Lima Ferreira|Portugal|[120.0, 38.3, 1.0]|780.0|[112.0, 43.0]|54.0|112.0|43.0|120.0|38.3|1.0|Uruguay vs Portugal|Round of 16|2-1
+118|7579|Edinson Roberto Cavani Gómez|Uruguay|[120.0, 42.6, 1.0]|783.0|[103.0, 26.0]|61.0|103.0|26.0|120.0|42.6|1.0|Uruguay vs Portugal|Round of 16|2-1
+119|7572|Jan Bednarek|Poland|[120.0, 43.4, 1.3]|789.0|[114.0, 46.0]|58.0|114.0|46.0|120.0|43.4|1.3|Japan vs Poland|Group Stage|0-1
+120|7543|Diego da Silva Costa|Spain|[120.0, 36.4, 0.7]|772.0|[107.0, 36.0]|53.0|107.0|36.0|120.0|36.4|0.7|Iran vs Spain|Group Stage|0-1
+121|7525|Yury Gazinskiy|Russia|[120.0, 36.6, 1.7]|796.0|[112.0, 47.0]|11.0|112.0|47.0|120.0|36.6|1.7|Russia vs Saudi Arabia|Group Stage|5-0
+122|7525|Denis Cheryshev|Russia|[120.0, 36.6, 1.8]|796.0|[110.0, 34.0]|42.0|110.0|34.0|120.0|36.6|1.8|Russia vs Saudi Arabia|Group Stage|5-0
+123|7525|Artem Dzyuba|Russia|[120.0, 43.0, 0.6]|796.0|[115.0, 37.0]|70.0|115.0|37.0|120.0|43.0|0.6|Russia vs Saudi Arabia|Group Stage|5-0
+124|7525|Denis Cheryshev|Russia|[120.0, 44.0, 2.4]|796.0|[104.0, 23.0]|90.0|104.0|23.0|120.0|44.0|2.4|Russia vs Saudi Arabia|Group Stage|5-0
+125|7525|Aleksandr Golovin|Russia|[120.0, 44.0, 0.9]|796.0|[99.0, 52.0]|93.0|99.0|52.0|120.0|44.0|0.9|Russia vs Saudi Arabia|Group Stage|5-0
+126|7542|Cristiano Ronaldo dos Santos Aveiro|Portugal|[120.0, 41.7, 2.4]|780.0|[115.0, 41.0]|3.0|115.0|41.0|120.0|41.7|2.4|Portugal vs Morocco|Group Stage|1-0
+127|7566|Ludwig Augustinsson|Sweden|[119.0, 38.7, 1.3]|790.0|[116.0, 32.0]|49.0|116.0|32.0|119.0|38.7|1.3|Mexico vs Sweden|Group Stage|0-3
+128|7566|Andreas Granqvist|Sweden|[120.0, 36.2, 2.4]|790.0|[109.0, 41.0]|61.0|109.0|41.0|120.0|36.2|2.4|Mexico vs Sweden|Group Stage|0-3
+129|7557|Ricardo Andrade Quaresma Bernardo|Portugal|[120.0, 36.2, 1.7]|780.0|[102.0, 58.0]|44.0|102.0|58.0|120.0|36.2|1.7|Iran vs Portugal|Group Stage|1-1
+130|7557|Karim Ansarifard|Iran|[120.0, 42.6, 2.5]|797.0|[109.0, 41.0]|92.0|109.0|41.0|120.0|42.6|2.5|Iran vs Portugal|Group Stage|1-1
+131|7554|John Stones|England|[120.0, 37.2, 0.9]|768.0|[109.0, 42.0]|7.0|109.0|42.0|120.0|37.2|0.9|England vs Panama|Group Stage|6-1
+132|7554|Harry Kane|England|[120.0, 36.6, 2.0]|768.0|[109.0, 41.0]|21.0|109.0|41.0|120.0|36.6|2.0|England vs Panama|Group Stage|6-1
+133|7554|Jesse Lingard|England|[120.0, 43.8, 2.3]|768.0|[98.0, 34.0]|35.0|98.0|34.0|120.0|43.8|2.3|England vs Panama|Group Stage|6-1
+134|7554|John Stones|England|[120.0, 37.2, 1.7]|768.0|[118.0, 36.0]|39.0|118.0|36.0|120.0|37.2|1.7|England vs Panama|Group Stage|6-1
+135|7554|Harry Kane|England|[120.0, 37.8, 1.6]|768.0|[109.0, 41.0]|45.0|109.0|41.0|120.0|37.8|1.6|England vs Panama|Group Stage|6-1
+136|7554|Harry Kane|England|[120.0, 39.7, 1.2]|768.0|[105.0, 49.0]|61.0|105.0|49.0|120.0|39.7|1.2|England vs Panama|Group Stage|6-1
+137|7554|Felipe Abdiel Baloy Ramírez|Panama|[120.0, 43.6, 1.3]|798.0|[109.0, 44.0]|77.0|109.0|44.0|120.0|43.6|1.3|England vs Panama|Group Stage|6-1
+138|7570|Adnan Januzaj|Belgium|[119.0, 36.6, 2.2]|782.0|[105.0, 53.0]|50.0|105.0|53.0|119.0|36.6|2.2|England vs Belgium|Group Stage|0-1
+139|7585|Harry Kane|England|[119.0, 40.3, 1.6]|768.0|[108.0, 40.0]|56.0|108.0|40.0|119.0|40.3|1.6|Colombia vs England|Round of 16|1-1
+140|7585|Yerry Fernando Mina González|Colombia|[120.0, 36.6, 1.9]|769.0|[114.0, 41.0]|92.0|114.0|41.0|120.0|36.6|1.9|Colombia vs England|Round of 16|1-1
+141|7585|Radamel Falcao García Zárate|Colombia|[120.0, 39.7, 1.5]|769.0|[109.0, 41.0]|120.0|109.0|41.0|120.0|39.7|1.5|Colombia vs England|Round of 16|1-1
+142|7585|Harry Kane|England|[120.0, 36.2, 0.5]|768.0|[109.0, 41.0]|121.0|109.0|41.0|120.0|36.2|0.5|Colombia vs England|Round of 16|1-1
+143|7585|Juan Guillermo Cuadrado Bello|Colombia|[120.0, 37.0, 2.0]|769.0|[109.0, 41.0]|121.0|109.0|41.0|120.0|37.0|2.0|Colombia vs England|Round of 16|1-1
+144|7585|Marcus Rashford|England|[120.0, 36.2, 0.5]|768.0|[109.0, 41.0]|122.0|109.0|41.0|120.0|36.2|0.5|Colombia vs England|Round of 16|1-1
+145|7585|Luis Fernando Muriel Fruto|Colombia|[120.0, 42.0, 0.2]|769.0|[109.0, 41.0]|123.0|109.0|41.0|120.0|42.0|0.2|Colombia vs England|Round of 16|1-1
+146|7585|Kieran Trippier|England|[119.0, 37.0, 1.9]|768.0|[109.0, 41.0]|125.0|109.0|41.0|119.0|37.0|1.9|Colombia vs England|Round of 16|1-1
+147|7585|Eric Dier|England|[120.0, 36.4, 0.4]|768.0|[109.0, 41.0]|127.0|109.0|41.0|120.0|36.4|0.4|Colombia vs England|Round of 16|1-1
+148|7586|Emil Peter Forsberg|Sweden|[120.0, 37.6, 2.2]|790.0|[101.0, 42.0]|65.0|101.0|42.0|120.0|37.6|2.2|Sweden vs Switzerland|Round of 16|1-0
+149|8656|Kieran Trippier|England|[120.0, 43.4, 2.3]|768.0|[96.0, 43.0]|4.0|96.0|43.0|120.0|43.4|2.3|Croatia vs England|Semi-finals|2-1
+150|8656|Ivan Perišić|Croatia|[120.0, 36.4, 0.4]|785.0|[114.0, 40.0]|67.0|114.0|40.0|120.0|36.4|0.4|Croatia vs England|Semi-finals|2-1
+151|8656|Mario Mandžukić|Croatia|[119.0, 42.0, 0.5]|785.0|[114.0, 33.0]|108.0|114.0|33.0|119.0|42.0|0.5|Croatia vs England|Semi-finals|2-1
+152|8651|Harry Maguire|England|[120.0, 37.6, 0.1]|768.0|[110.0, 44.0]|29.0|110.0|44.0|120.0|37.6|0.1|Sweden vs England|Quarter-finals|0-2
+153|8651|Bamidele Alli|England|[119.0, 38.7, 1.9]|768.0|[116.0, 32.0]|58.0|116.0|32.0|119.0|38.7|1.9|Sweden vs England|Quarter-finals|0-2
+154|7567|Young-Gwon Kim|South Korea|[120.0, 42.6, 0.9]|791.0|[115.0, 42.0]|91.0|115.0|42.0|120.0|42.6|0.9|South Korea vs Germany|Group Stage|2-0
+155|7567|Heung-Min Son|South Korea|[120.0, 44.0, 0.4]|791.0|[116.0, 32.0]|95.0|116.0|32.0|120.0|44.0|0.4|South Korea vs Germany|Group Stage|2-0
+156|7541|Shinji Kagawa|Japan|[119.0, 41.5, 0.3]|778.0|[108.0, 40.0]|5.0|108.0|40.0|119.0|41.5|0.3|Colombia vs Japan|Group Stage|1-2
+157|7541|Juan Fernando Quintero Paniagua|Colombia|[120.0, 44.0, 0.1]|769.0|[100.0, 60.0]|38.0|100.0|60.0|120.0|44.0|0.1|Colombia vs Japan|Group Stage|1-2
+158|7541|Yūya Ōsako|Japan|[119.0, 44.0, 1.2]|778.0|[117.0, 39.0]|72.0|117.0|39.0|119.0|44.0|1.2|Colombia vs Japan|Group Stage|1-2
+159|8655|Samuel Yves Umtiti|France|[120.0, 43.6, 1.8]|771.0|[118.0, 47.0]|50.0|118.0|47.0|120.0|43.6|1.8|France vs Belgium|Semi-finals|1-0
+160|8657|Thomas Meunier|Belgium|[120.0, 41.9, 0.4]|782.0|[113.0, 41.0]|3.0|113.0|41.0|120.0|41.9|0.4|Belgium vs England|3rd Place Final|2-0
+161|8657|Eden Hazard|Belgium|[120.0, 36.6, 0.8]|782.0|[112.0, 35.0]|81.0|112.0|35.0|120.0|36.6|0.8|Belgium vs England|3rd Place Final|2-0
+162|7540|Denis Cheryshev|Russia|[120.0, 42.4, 0.4]|796.0|[111.0, 47.0]|58.0|111.0|47.0|120.0|42.4|0.4|Russia vs Egypt|Group Stage|3-1
+163|7540|Artem Dzyuba|Russia|[119.0, 44.0, 0.5]|796.0|[108.0, 44.0]|61.0|108.0|44.0|119.0|44.0|0.5|Russia vs Egypt|Group Stage|3-1
+164|7540|Mohamed Salah|Egypt|[120.0, 43.4, 2.4]|774.0|[108.0, 40.0]|72.0|108.0|40.0|120.0|43.4|2.4|Russia vs Egypt|Group Stage|3-1
+165|8652|Denis Cheryshev|Russia|[119.0, 36.4, 2.3]|796.0|[94.0, 34.0]|30.0|94.0|34.0|119.0|36.4|2.3|Russia vs Croatia|Quarter-finals|2-2
+166|8652|Andrej Kramarić|Croatia|[120.0, 42.2, 0.6]|785.0|[113.0, 38.0]|38.0|113.0|38.0|120.0|42.2|0.6|Russia vs Croatia|Quarter-finals|2-2
+167|8652|Domagoj Vida|Croatia|[120.0, 44.0, 0.9]|785.0|[110.0, 40.0]|100.0|110.0|40.0|120.0|44.0|0.9|Russia vs Croatia|Quarter-finals|2-2
+168|8652|Mário Figueira Fernandes|Russia|[120.0, 36.2, 0.7]|796.0|[114.0, 41.0]|114.0|114.0|41.0|120.0|36.2|0.7|Russia vs Croatia|Quarter-finals|2-2
+169|8652|Marcelo Brozović|Croatia|[120.0, 43.6, 1.7]|785.0|[109.0, 41.0]|121.0|109.0|41.0|120.0|43.6|1.7|Russia vs Croatia|Quarter-finals|2-2
+170|8652|Alan Dzagoev|Russia|[120.0, 43.2, 0.4]|796.0|[109.0, 41.0]|122.0|109.0|41.0|120.0|43.2|0.4|Russia vs Croatia|Quarter-finals|2-2
+171|8652|Luka Modrić|Croatia|[119.0, 37.6, 0.2]|785.0|[109.0, 41.0]|125.0|109.0|41.0|119.0|37.6|0.2|Russia vs Croatia|Quarter-finals|2-2
+172|8652|Sergei Ignashevich|Russia|[120.0, 37.0, 0.7]|796.0|[109.0, 41.0]|125.0|109.0|41.0|120.0|37.0|0.7|Russia vs Croatia|Quarter-finals|2-2
+173|8652|Domagoj Vida|Croatia|[120.0, 36.6, 1.6]|785.0|[109.0, 41.0]|126.0|109.0|41.0|120.0|36.6|1.6|Russia vs Croatia|Quarter-finals|2-2
+174|8652|Daler Kuzyaev|Russia|[120.0, 36.2, 0.4]|796.0|[109.0, 41.0]|127.0|109.0|41.0|120.0|36.2|0.4|Russia vs Croatia|Quarter-finals|2-2
+175|8652|Ivan Rakitić|Croatia|[120.0, 36.6, 0.4]|785.0|[109.0, 41.0]|127.0|109.0|41.0|120.0|36.6|0.4|Russia vs Croatia|Quarter-finals|2-2
+176|7556|Sadio Mané|Senegal|[120.0, 36.4, 1.6]|787.0|[116.0, 38.0]|10.0|116.0|38.0|120.0|36.4|1.6|Japan vs Senegal|Group Stage|2-2
+177|7556|Takashi Inui|Japan|[120.0, 44.0, 1.6]|778.0|[108.0, 29.0]|33.0|108.0|29.0|120.0|44.0|1.6|Japan vs Senegal|Group Stage|2-2
+178|7556|Moussa Wagué|Senegal|[120.0, 40.3, 2.3]|787.0|[114.0, 52.0]|70.0|114.0|52.0|120.0|40.3|2.3|Japan vs Senegal|Group Stage|2-2
+179|7556|Keisuke Honda|Japan|[120.0, 43.8, 1.6]|778.0|[113.0, 43.0]|77.0|113.0|43.0|120.0|43.8|1.6|Japan vs Senegal|Group Stage|2-2
+180|7559|Mohamed Salah|Egypt|[120.0, 38.9, 1.7]|774.0|[101.0, 48.0]|21.0|101.0|48.0|120.0|38.9|1.7|Saudi Arabia vs Egypt|Group Stage|2-1
+181|7559|Salman Mohammed Al Faraj|Saudi Arabia|[120.0, 37.4, 2.3]|799.0|[108.0, 40.0]|50.0|108.0|40.0|120.0|37.4|2.3|Saudi Arabia vs Egypt|Group Stage|2-1
+182|7559|Salem Mohammed Al Dawsari|Saudi Arabia|[120.0, 36.4, 0.4]|799.0|[116.0, 53.0]|94.0|116.0|53.0|120.0|36.4|0.4|Saudi Arabia vs Egypt|Group Stage|2-1
+183|7577||||||||||||Morocco vs Iran|Group Stage|0-1
+184|7563||||||||||||Denmark vs France|Group Stage|0-0
