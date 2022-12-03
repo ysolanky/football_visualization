@@ -436,8 +436,8 @@ with st.container():
             #iplot(plotly_fig)
             
             
-            st.plotly_chart(plotly_fig, use_container_width=True )
-            #st.write(plotly_fig)
+            #st.plotly_chart(plotly_fig, use_container_width=True )
+            st.write(plotly_fig)
         
         with col_goal_table:
             keep_cols=['minute','player','possession_team']
@@ -506,8 +506,8 @@ with st.container():
             fig_goal.update_yaxes(visible=False, showticklabels=False)
             fig_goal.update_xaxes(visible=False, showticklabels=False)
             fig_goal.update_layout(font=dict(size=20), title="Final location of football with respect to goal post")
-            #st.write(fig_goal)
-            st.plotly_chart(fig_goal, use_container_width=True )
+            st.write(fig_goal)
+            #st.plotly_chart(fig_goal, use_container_width=True )
 
 
 ##game progess
