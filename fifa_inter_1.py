@@ -14,7 +14,7 @@ import numpy as np
 import math
 from mplsoccer.pitch import Pitch
 
-base_data=pd.read_csv("C:/users/yashp/Desktop/IUB/2022/Data Viz/Project/Fifa 23 Players Data.csv",
+base_data=pd.read_csv("Fifa 23 Players Data.csv",
                        dtype={'Known As':str,
                                 'Full Name':str,
                                 'Overall':float,
@@ -318,9 +318,9 @@ with st.container():
         4) Goals by minute
 
     """)
-    goal_img = Image.open("C:/users/yashp/Desktop/IUB/2022/Data Viz/Project/ball1.png")
+    goal_img = Image.open("ball1.png")
 
-    goals_data = pd.read_csv("C:/users/yashp/Desktop/IUB/2022/Data Viz/Project/goals_27Nov.csv",
+    goals_data = pd.read_csv("goals_27Nov.csv",
                         dtype={'match_id':str,
                         'player':str,
                         'possession_team':str,
