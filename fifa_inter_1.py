@@ -1,5 +1,5 @@
 import pandas as pd
-from IPython.display import display
+#from IPython.display import display
 pd.set_option('display.max_columns', None)
 import plotly.express as px
 import streamlit as st
