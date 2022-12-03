@@ -1,0 +1,7 @@
+matplotlib == 3.6.2
+mplsoccer==1.1.8
+numpy==1.23.4
+pandas==1.5.0
+plotly @ file:///opt/conda/conda-bld/plotly_1646671701182/work
+statsbombpy==1.5.1
+streamlit==1.15.1
