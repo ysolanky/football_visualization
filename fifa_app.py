@@ -302,7 +302,7 @@ with st.container():
         fig_radar.update_layout(title_text='Player Comparisons')
         fig_radar.update_layout(legend=dict(
                             yanchor="top",
-                            y=0.4,
+                            y=0.45,
                             xanchor="right",
                             x=-0.1
                         ))
